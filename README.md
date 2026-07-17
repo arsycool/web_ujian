@@ -8,7 +8,7 @@ Website TKB CPNS Pranata Komputer merupakan aplikasi berbasis web yang dibuat se
 
 ### 1. Halaman Login
 
-![Halaman Login](Screenshot%202026-07-17%20104155.png)
+![Halaman Login](pic_ujian/Screenshot%202026-07-17%20104155.png)
 
 Halaman login digunakan untuk masuk ke dalam sistem menggunakan NIP atau nomor peserta beserta PIN. Pengguna juga dapat masuk sebagai tamu untuk mencoba fitur yang tersedia.
 
