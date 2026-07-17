@@ -16,7 +16,7 @@ Halaman login digunakan untuk masuk ke dalam sistem menggunakan NIP atau nomor p
 
 ### 2. Halaman Dashboard
 
-![Halaman Dashboard](Screenshot%202026-07-17%20104202.png)
+![Halaman Dashboard](pic_ujian/Screenshot%202026-07-17%20104202.png)
 
 Dashboard merupakan halaman utama setelah pengguna berhasil login. Pada halaman ini ditampilkan informasi akun, statistik hasil ujian, progres pengerjaan, serta pilihan sesi yang tersedia.
 
@@ -24,7 +24,7 @@ Dashboard merupakan halaman utama setelah pengguna berhasil login. Pada halaman 
 
 ### 3. Daftar Sesi Ujian
 
-![Daftar Sesi Ujian](Screenshot%202026-07-17%20104208.png)
+![Daftar Sesi Ujian](pic_ujian/Screenshot%202026-07-17%20104208.png)
 
 Halaman ini menampilkan daftar sesi ujian yang dapat dikerjakan. Setiap sesi memiliki materi yang berbeda dan akan terbuka secara bertahap sesuai progres pengguna.
 
@@ -32,7 +32,7 @@ Halaman ini menampilkan daftar sesi ujian yang dapat dikerjakan. Setiap sesi mem
 
 ### 4. Informasi Sebelum Ujian
 
-![Informasi Sebelum Ujian](Screenshot%202026-07-17%20104216.png)
+![Informasi Sebelum Ujian](pic_ujian/Screenshot%202026-07-17%20104216.png)
 
 Sebelum ujian dimulai, peserta dapat melihat informasi mengenai jumlah soal, materi yang akan diujikan, batas waktu pengerjaan, serta skor maksimum yang bisa diperoleh.
 
@@ -40,7 +40,7 @@ Sebelum ujian dimulai, peserta dapat melihat informasi mengenai jumlah soal, mat
 
 ### 5. Halaman Ujian
 
-![Halaman Ujian](Screenshot%202026-07-17%20104228.png)
+![Halaman Ujian](pic_ujian/Screenshot%202026-07-17%20104228.png)
 
 Halaman ini digunakan untuk mengerjakan soal ujian. Di dalamnya terdapat timer, nomor soal, pilihan jawaban, navigasi soal, serta tombol untuk melakukan koreksi jawaban sebelum menyelesaikan sesi.
 
@@ -48,7 +48,7 @@ Halaman ini digunakan untuk mengerjakan soal ujian. Di dalamnya terdapat timer, 
 
 ### 6. Hasil Ujian
 
-![Hasil Ujian](Screenshot%202026-07-17%20104300.png)
+![Hasil Ujian](pic_ujian/Screenshot%202026-07-17%20104300.png)
 
 Setelah seluruh soal selesai dikerjakan, sistem akan menghitung nilai secara otomatis dan menampilkan jumlah jawaban benar, jawaban salah, persentase nilai, serta waktu yang digunakan selama ujian.
 
@@ -56,7 +56,7 @@ Setelah seluruh soal selesai dikerjakan, sistem akan menghitung nilai secara oto
 
 ### 7. Riwayat Ujian
 
-![Riwayat Ujian](Screenshot%202026-07-17%20104308.png)
+![Riwayat Ujian](pic_ujian/Screenshot%202026-07-17%20104308.png)
 
 Riwayat ujian menampilkan seluruh hasil yang pernah dikerjakan. Pengguna dapat melihat jumlah percobaan, nilai terbaik, nilai terakhir, statistik setiap sesi, serta mengekspor data riwayat ke dalam format CSV.
 
